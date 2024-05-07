@@ -42,7 +42,7 @@ else:
 
 ## Output:
 
-![image](https://github.com/saravidhya/Square-root-of-a-number/assets/87062069/8aca6f1a-e83d-4784-959c-4d192883a7ee)
+![image](https://github.com/saravidhya/Square-root-of-a-number/assets/87062069/3d4691ee-8c38-45c7-8dd5-14e566a41c29)
 
 
 
